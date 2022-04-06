@@ -1,4 +1,4 @@
-package AulaParticular;
+package AulaParticular.Lista01;
 
 /*14.	Faça um algoritmo em Java que imprima todos os múltiplos de 3, entre 1 e 100.*/
 public class Exe14 {

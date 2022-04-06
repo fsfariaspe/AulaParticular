@@ -1,4 +1,4 @@
-package AulaParticular;
+package AulaParticular.Lista01;
 
 /*13.	Faça um algoritmo em Java que imprima a soma de 1 até 1000.*/
 public class Exe13 {

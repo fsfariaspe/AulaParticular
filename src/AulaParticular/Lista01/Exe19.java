@@ -1,4 +1,4 @@
-package AulaParticular;
+package AulaParticular.Lista01;
 
 /*19.	Faça um algoritmo em Java que escreva um algoritmo para imprimir os
         números de 1 (inclusive) a 10 (inclusive) em ordem decrescente. */

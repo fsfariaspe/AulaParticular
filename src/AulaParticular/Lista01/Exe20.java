@@ -1,4 +1,4 @@
-package AulaParticular;
+package AulaParticular.Lista01;
 
 /*20.	Faça um algoritmo em Java que escreva um algoritmo para imprimir
         os 10 primeiros números inteiros maiores que 100. */

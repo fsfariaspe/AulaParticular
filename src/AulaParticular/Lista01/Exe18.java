@@ -1,4 +1,4 @@
-package AulaParticular;
+package AulaParticular.Lista01;
 
 import java.security.SecureRandom;
 import java.util.Scanner;

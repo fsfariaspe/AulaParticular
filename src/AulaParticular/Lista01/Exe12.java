@@ -1,4 +1,4 @@
-package AulaParticular;
+package AulaParticular.Lista01;
 
 /*12.	Faça um algoritmo em Java que imprima todos os números de 150 a 300.*/
 public class Exe12 {
