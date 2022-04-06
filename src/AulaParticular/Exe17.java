@@ -16,6 +16,8 @@ public class Exe17 {
 
         System.out.println("Digite o tamanho do seu triângulo");
         int num = ler.nextInt();
+        String padrao = "";
+
 
         for (int i = 1; i <= num; i++) {
             for (int j = 1; j <= i; j++) {
@@ -28,3 +30,9 @@ public class Exe17 {
         System.out.println("Fim!");
     }
 }
+
+//        Resolução de Deivson
+//        for (int i = 1; i <= num; i++){
+//            padrao+= "*";
+//            System.out.println(padrao);
+//        }
