@@ -29,7 +29,6 @@ public class Exe03 {
     public static int ler (int i) {
         Scanner sc = new Scanner(System.in);
         i = sc.nextInt();
-        sc.close();
         return i;
     }
 }
